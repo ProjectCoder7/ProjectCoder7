@@ -1,5 +1,5 @@
 👋 Hi, I’m @ProjectCoder7
-👀 I’m interested in programming in C#, working out, and music.
+👀 I’m interested in programming in C#, working out(gym), and music.
 🌱 I’m currently learning to become a .NET developer.
 💞️ I’m looking to collaborate on ...
 📫 How to reach me: projectzielinski@gmail.com
